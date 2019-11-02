@@ -1,1 +1,1 @@
-document.querySelector(".test").innerText = "babo";
+document.querySelector(".test").innerText = "merong";
